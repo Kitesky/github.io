@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 请访问 https://www.kitesky.com
 
 You can use the [editor on GitHub](https://github.com/Kitesky/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
